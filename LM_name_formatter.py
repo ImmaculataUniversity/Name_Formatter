@@ -10,7 +10,7 @@ musician = get_formatted_name('jimi', '', 'hendrix')
 print(musician)
 musician = get_formatted_name('john', 'lee', 'hooker')  
 print(musician)
-# ask for user to input fisrt name
+# ask for user to input first name
 user_first_name = input("Please enter your favorite musician's first name: ")
 # ask user to input middle name
 user_middle_name = input("Please enter your favorite musician's middle name: ")
